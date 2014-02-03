@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "289BBC4E189D0E6000D17EEC"
+               BuildableName = "BS_Prak_10_Signale"
+               BlueprintName = "BS_Prak_10_Signale"
+               ReferencedContainer = "container:BS_Prak_10_Signale.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -13,6 +29,15 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "289BBC4E189D0E6000D17EEC"
+            BuildableName = "BS_Prak_10_Signale"
+            BlueprintName = "BS_Prak_10_Signale"
+            ReferencedContainer = "container:BS_Prak_10_Signale.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -23,6 +48,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "289BBC4E189D0E6000D17EEC"
+            BuildableName = "BS_Prak_10_Signale"
+            BlueprintName = "BS_Prak_10_Signale"
+            ReferencedContainer = "container:BS_Prak_10_Signale.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -32,6 +66,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "289BBC4E189D0E6000D17EEC"
+            BuildableName = "BS_Prak_10_Signale"
+            BlueprintName = "BS_Prak_10_Signale"
+            ReferencedContainer = "container:BS_Prak_10_Signale.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
